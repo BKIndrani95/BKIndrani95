@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BKIndrani95
-- 👀 I’m interested in Anlysis, Presentation, writting
+- 👀 I’m interested in Anlaysis,Data Exploration, Presentation, writting
 - 🌱 I’m currently learning Master in Data Science
 - 💞️ I’m looking to collaborate on Data Science or Data Analyst Projects
 - 📫 How to reach me @BKIndrani95 in Github
